@@ -6,4 +6,6 @@ This project should utilize CSS and HTML5 with no JavaScript!
 
 This is the first of these projects. Eventually they will include JavaScript.
 
+Still work in progress, finishing project next Sunday.
+
 ### Thank you for reading 
